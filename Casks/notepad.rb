@@ -1,6 +1,6 @@
 cask "notepad" do
-  version "1.6.0"
-  sha256 "052f2ed500200b2a273883feb04561bfe61c5ff70eec419a6886ce4626c9382c"
+  version "2.1.0"
+  sha256 "0698a1fb610167e794444926c3a948b76bf7271ac0a17875fde581e73d003469"
 
   url "https://github.com/jayclark5150/Notepad/releases/download/v#{version}/Notepad.zip"
   name "Notepad"
