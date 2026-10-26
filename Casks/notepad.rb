@@ -7,7 +7,7 @@ cask "notepad" do
   desc "Single-file Obj-C Cocoa macOS text editor with Notes app aesthetic"
   homepage "https://github.com/jayclark5150/Notepad"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Notepad.app"
 
