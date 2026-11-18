@@ -4,7 +4,7 @@ cask "page2" do
 
   url "https://github.com/jayclark5150/page2/releases/download/v#{version}/Page2-#{version}.dmg"
   name "Page 2"
-  desc "Personal Ground News style RSS reader with bias clustering"
+  desc "Personal RSS news reader with story clustering and bias labels"
   homepage "https://github.com/jayclark5150/page2"
 
   depends_on macos: :sonoma
