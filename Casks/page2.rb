@@ -1,6 +1,6 @@
 cask "page2" do
-  version "0.5.0"
-  sha256 "389660eacd5ba8e65e605917b0b7cf1121b7edc12359a62bed445fa67384864e"
+  version "0.5.1"
+  sha256 "48af9230ea71c3ed695758702b8c056f07585c6212ad2f72465c974fbb347edb"
 
   url "https://github.com/jayclark5150/page2/releases/download/v#{version}/Page2-#{version}.dmg"
   name "Page 2"
